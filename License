@@ -1,0 +1,9 @@
+{
+  ...
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "url":  "https://api.github.com/licenses/mit"
+  }
+  ...
+}
